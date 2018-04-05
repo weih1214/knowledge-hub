@@ -3,6 +3,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 kafka_utility/__pycache__/
+.idea/
 *.py[cod]
 *$py.class
 
